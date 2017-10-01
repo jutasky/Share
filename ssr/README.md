@@ -4,9 +4,9 @@
 
   - account/
   - pic/
-  - ShadowsocksX-R.zip
-  - ShadowsocksR-4.7.0.zip
-  - ShadowsocksR-release.apk
+  - [ShadowsocksX-R.zip][2]
+  - [ShadowsocksR-4.7.0.zip][1]
+  - [ShadowsocksR-release.apk][3]
   - account.md
   - README.md
 
@@ -77,6 +77,10 @@
 - - - -
 > 2017.10.01 flxxyz created.
 
+
+ [1]: https://github.com/jutasky/Share/raw/master/ssr/ShadowsocksR-4.7.0.zip
+ [2]: https://github.com/jutasky/Share/raw/master/ssr/ShadowsocksX-R.zip
+ [3]: https://github.com/jutasky/Share/raw/master/ssr/Shadowsocksr-release.apk
 
  [10]: ./pic/windows/ssr_1.png
  [11]: ./pic/windows/ssr_2.png
