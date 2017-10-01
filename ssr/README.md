@@ -112,8 +112,39 @@
 - - - -
 
  ### **Android:**
-  等待添加
 
+ 1. 上车
+
+ ** 安装客户端。下载地址见上方 **
+
+ > 哈？你已经装好了！
+
+ ![a-1][a-1]
+
+
+ > 那你倒是打开啊啊啊啊 :exclamation:
+
+ ![a-2][a-2]
+
+ 2. 输入车牌号和驾照...
+
+ ![a-3][a-3]
+
+ 3. 疯狂摁那个飞机...
+
+ > 摁一次就好了啊啊啊！！！
+
+ ![a-4][a-4]
+
+ > 然后，他就绿了
+
+ ![a-5][a-5]
+
+ 4. 开始学日语
+
+ ![a-6][a-6]
+ 
+ - - - -
 
  ### **IOS:**
  > 抱歉，你说什麽？我没听到
@@ -143,4 +174,13 @@
  [25]: ./pic/mac/ssr_6.png
  [26]: ./pic/mac/ssr_7.png
  [27]: ./pic/mac/ssr_8.png
+ 
+ [a-1]: http://ox59pphuc.bkt.clouddn.com/a-ss-1.jpg
+ [a-2]: http://ox59pphuc.bkt.clouddn.com/a-ss-2.jpg
+ [a-3]: http://ox59pphuc.bkt.clouddn.com/a-ss-3.jpg
+ [a-4]: http://ox59pphuc.bkt.clouddn.com/a-ss-4.gif
+ [a-5]: http://ox59pphuc.bkt.clouddn.com/a-ss-5.gif
+ [a-6]: http://ox59pphuc.bkt.clouddn.com/a-ss-6.jpg
+
+
 
