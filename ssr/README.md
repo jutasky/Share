@@ -7,7 +7,7 @@
   - [ShadowsocksX-R.zip][2]
   - [ShadowsocksR-4.7.0.zip][1]
   - [ShadowsocksR-release.apk][3]
-  - account.md
+  - [account.md][4]
   - README.md
 
 
@@ -93,7 +93,7 @@
   **step6:**
   如出现如下情况，请选择**打开**
   
-  ![mac_6][25]
+  ![mac_6](25)
   
   **step7:**
   状态栏上右键**小飞机**图标，选择 服务器 -> 服务器设置
@@ -157,6 +157,7 @@
  [1]: https://github.com/jutasky/Share/raw/master/ssr/ShadowsocksR-4.7.0.zip
  [2]: https://github.com/jutasky/Share/raw/master/ssr/ShadowsocksX-R.zip
  [3]: https://github.com/jutasky/Share/raw/master/ssr/Shadowsocksr-release.apk
+ [4]: https://github.com/jutasky/Share/blob/master/ssr/account.md
 
  [10]: ./pic/windows/ssr_1.png
  [11]: ./pic/windows/ssr_2.png
