@@ -113,36 +113,7 @@
 
  ### **Android:**
 
- 1. 上车
 
- ** 安装客户端。下载地址见上方 **
-
- > 哈？你已经装好了！
-
- ![a-1][a-1]
-
-
- > 那你倒是打开啊啊啊啊 :exclamation:
-
- ![a-2][a-2]
-
- 2. 输入车牌号和驾照...
-
- ![a-3][a-3]
-
- 3. 疯狂摁那个飞机...
-
- > 摁一次就好了啊啊啊！！！
-
- ![a-4][a-4]
-
- > 然后，他就绿了
-
- ![a-5][a-5]
-
- 4. 开始学日语
-
- ![a-6][a-6]
  
  - - - -
 
@@ -151,7 +122,7 @@
 
 
 - - - -
-> 2017.10.01 flxxyz updated.
+> 2017.10.15 flxxyz updated.
 
 
  [1]: https://github.com/jutasky/Share/raw/master/ssr/ShadowsocksR-4.7.0.zip
@@ -176,12 +147,8 @@
  [26]: ./pic/mac/ssr_7.png
  [27]: ./pic/mac/ssr_8.png
  
- [a-1]: http://ox59pphuc.bkt.clouddn.com/a-ss-1.jpg
- [a-2]: http://ox59pphuc.bkt.clouddn.com/a-ss-2.jpg
- [a-3]: http://ox59pphuc.bkt.clouddn.com/a-ss-3.jpg
- [a-4]: http://ox59pphuc.bkt.clouddn.com/a-ss-4.gif
- [a-5]: http://ox59pphuc.bkt.clouddn.com/a-ss-5.gif
- [a-6]: http://ox59pphuc.bkt.clouddn.com/a-ss-6.jpg
-
-
-
+ [30]: ./pic/android/ssr_1.png
+ [31]: ./pic/android/ssr_2.png
+ [32]: ./pic/android/ssr_3.png
+ [33]: ./pic/android/ssr_4.png
+ [34]: ./pic/android/ssr_5.png
