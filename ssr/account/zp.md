@@ -1,11 +1,30 @@
 
-  serve_ip: `104.225.153.129`
+  > IP?
 
-  serve_port: `2333`
+  `server`: 104.225.153.129,
 
-  local_port: `1080`
+---
 
-  password: `zp123456`
+  > 服务端
 
-  method: `aes-256-cfb`
+  `port`: 443
 
+---
+
+  > 密码吗？
+
+  `password`: YjE2MDMyYm
+
+---
+
+  > 加密吗？
+
+  `encrypt`: aes-256-cfb
+
+---
+
+  > 协议 &&  混淆
+
+  `origin` && `tls1.2_ticket_auth`
+
+---
