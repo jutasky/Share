@@ -2,7 +2,6 @@
 > 文档最好书写的有一定的格式
 
 - - - -
-
 # 目录
   ## 编程
   - [免费的编程中文书籍索引][10] 「**推荐**」
@@ -18,12 +17,12 @@
     - [PHP设计模式][32] 「**模式挺全,查看不太方便**」
 
     ### 工具书
-    - [Javascript大犀牛中文版][14]「**推荐**」
+    - [Javascript大犀牛中文版][14]「<span style='color:red'>**推荐**</span>」
     - [基于MVC的JavaScript Web富应用开发][23]
     - [Linux工具快速教程][17]
-    - [Android开发工具指南][20]
-    - [Android学习指南][29] 「**推荐**」
-    - [Lua程序设计][26] 「**推荐**」
+    - [Android开发工具指南][20]
+    - [Android学习指南][29] 「<span style='color:red'>**推荐**</span>」
+    - [Lua程序设计][26] 「<span style='color:red'>**推荐**</span>」
     - [Lua5.3参考手册][27]
 
   
@@ -35,17 +34,15 @@
   - [图虫][25]
 
   ## 英语
-  - [可能让你受益匪浅的高效学习英语进阶指南][11] 「**推荐**」
+  - [可能让你受益匪浅的高效学习英语进阶指南][11] 「<span class='red-bold'>学习英语非常推荐!</span>」
 
   ## 其他
   - [为什么静下心来阅读会是一种奢侈？][12] 「**迷茫推荐**」
-
-- - - -
-> 如遇到网站无法打开的问题，请考虑使用梯子访问，我们组织是为大家有提供的！！！[看这里][3]
+  - [前端写给设计的设计注意事项][33] 「<span style='color:red'>**强烈推荐**</span>」
 
 
 
-<br>
+
 <br>
 <br>
 
@@ -55,6 +52,8 @@
 
  - [https://daringfireball.net/projects/markdown/syntax][1]
  - [http://www.appinn.com/markdown/][2]
+
+> 如遇到网站无法打开的问题，请考虑使用梯子访问，我们组织是为大家有提供的！！！ [看这里][3]
 
 
  [1]: https://daringfireball.net/projects/markdown/syntax
@@ -85,3 +84,4 @@
  [30]: https://github.com/huangz1990/redisbook
  [31]: https://github.com/aisuhua/restful-api-design-references
  [32]: https://github.com/yunkaiyueming/php_design_patterns
+ [33]: https://github.com/onface/web-design-notes
