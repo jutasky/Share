@@ -1,6 +1,6 @@
 **serve_ip:** `121.42.217.161`
 
-**serve_port:** `25522`
+**serve_port:** `25521`
 
 **password:** `SSRflxxyz`
 

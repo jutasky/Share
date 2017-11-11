@@ -1,5 +1,9 @@
 # ssr使用说明
 
+废话不说，看看使用效果，4k无压力
+![速度测试1][5]
+![速度测试2][6]
+
 ## 文件目录结构
 
   - account/
@@ -151,6 +155,8 @@
  [2]: https://github.com/jutasky/Share/raw/master/ssr/ShadowsocksX-R.zip
  [3]: https://github.com/jutasky/Share/raw/master/ssr/Shadowsocksr-release.apk
  [4]: https://github.com/jutasky/Share/blob/master/ssr/account.md
+ [5]: ./pic/usage1.png
+ [6]: ./pic/usage2.png
 
  [10]: ./pic/windows/ssr_1.png
  [11]: ./pic/windows/ssr_2.png
