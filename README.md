@@ -8,12 +8,14 @@
   - [免费的编程中文书籍索引][10] 「**推荐**」
   - [一起学 Node.js][28]
   - [Redis设计与实现][30]
+  - [RESTful API设计参考文献][31]
 
     ### 设计模式
     - [Javascript设计模式][13]
     - [IOS设计模式探索(大话设计模式)][16]
     - [Ajax设计方案][18]
     - [React设计思想][19] 「**深入理解**」
+    - [PHP设计模式][32] 「**模式挺全,查看不太方便**」
 
     ### 工具书
     - [Javascript大犀牛中文版][14]「**推荐**」
@@ -81,3 +83,5 @@
  [28]: https://github.com/nswbmw/N-blog
  [29]: http://www.jianshu.com/p/f6681e417d40
  [30]: https://github.com/huangz1990/redisbook
+ [31]: https://github.com/aisuhua/restful-api-design-references
+ [32]: https://github.com/yunkaiyueming/php_design_patterns
