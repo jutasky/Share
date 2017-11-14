@@ -36,10 +36,12 @@
   ## 英语
   - [可能让你受益匪浅的高效学习英语进阶指南][11] 「<span class='red-bold'>学习英语非常推荐!</span>」
 
-  ## 其他
+  ## 哲学思考
   - [为什么静下心来阅读会是一种奢侈？][12] 「**迷茫推荐**」
-  - [前端写给设计的设计注意事项][33] 「<span style='color:red'>**强烈推荐**</span>」
+  - [乌云，一个时代的终结][34]
 
+  ## 其他
+  - [前端写给设计的设计注意事项][33] 「<span style='color:red'>**强烈推荐**</span>」
 
 
 
@@ -85,3 +87,4 @@
  [31]: https://github.com/aisuhua/restful-api-design-references
  [32]: https://github.com/yunkaiyueming/php_design_patterns
  [33]: https://github.com/onface/web-design-notes
+ [34]: https://mp.weixin.qq.com/s?__biz=MzU0NDEwMTc1MA%3D%3D&mid=2247486155&idx=1&sn=7dc48335e2be5b5190c8ced11ea1218c&chksm=fb000ed2cc7787c4a0af7c97b2129df779d3c76aee90679b7dc442ff7ba71ccf0a64d80af7bf&mpshare=1&scene=1&srcid=1113CTBykD7KabmlIwYarF7T&rd2werd=1
