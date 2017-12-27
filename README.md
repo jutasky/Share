@@ -43,6 +43,7 @@
 ## 其他
   - [前端写给设计的设计注意事项][33] 「<span style='color:red'>**强烈推荐**</span>」
   - [减压神器][35] 「<span style='color:red'>**我觉得ok**</span>」
+  > 建议带上耳机！！！
 
 - - - 
 
