@@ -10,6 +10,7 @@
 - [Redis设计与实现][30]
 - [RESTful API设计参考文献][31]
 - [网络变成深入理解][35]
+- [每个伟大的思想和行动都有一个微不足道的开始][37]
 
 ### 设计模式
   - [Javascript设计模式][13]
@@ -89,3 +90,5 @@
 [34]: https://aidn.jp/mikutap/
 [35]: https://github.com/shell909090/slides
 [36]: https://github.com/smalleyes/swoole-chm
+[37]: https://github.com/wizardforcel/data-science-notebook
+
