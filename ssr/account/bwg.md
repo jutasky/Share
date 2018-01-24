@@ -1,15 +1,15 @@
-**服务器IP:** `23.106.130.215`
+**服务器IP:** `bwg-los-us.flxxyz.com`
 
 **服务器端口:** `25521`
 
 **密码:** `SSRflxxyz`
 
-**加密:** `aes-256-cfb`
+**加密:** `chacha20`
 
-**协议:** `auth_sha1_v4`
+**协议:** `origin`
 
-**混淆:** `http_simple`
+**混淆:** `plain`
 
 - - - -
 
-**SSR链接:** `ssr://MjMuMTA2LjEzMC4yMTU6MjU1MjE6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOlUxTlNabXg0ZUhsNi8_b2Jmc3BhcmFtPSZyZW1hcmtzPVluZG4mZ3JvdXA9VzFWVFFWMA`
+**SSR链接:** `ssr://YndnLWxvcy11cy5mbHh4eXouY29tOjI1NTIxOm9yaWdpbjpjaGFjaGEyMDpwbGFpbjpVMU5TWm14NGVIbDYvP29iZnNwYXJhbT0mcmVtYXJrcz1ZbmRuJmdyb3VwPVcxVlRRVjA`

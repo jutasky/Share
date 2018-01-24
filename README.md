@@ -48,7 +48,7 @@
 
 - - - 
 
-> 不会`markdown`语法的，请看看下面的两个网站学习语法
+> 不会`markdown`语法的，请看看下面的三个网站学习语法
 
 - [https://guides.github.com/features/mastering-markdown/][3]
 - [https://daringfireball.net/projects/markdown/syntax][1]
