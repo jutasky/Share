@@ -1,30 +1,6 @@
 
-  > IP?
+Google-29
 
-  `server`: 104.225.153.129,
+- ssr
 
----
-
-  > 服务端
-
-  `port`: 443
-
----
-
-  > 密码吗？
-
-  `password`: YjE2MDMyYm
-
----
-
-  > 加密吗？
-
-  `encrypt`: aes-256-cfb
-
----
-
-  > 协议 &&  混淆
-
-  `origin` && `tls1.2_ticket_auth`
-
----
+`ssr://MzUuMjAxLjE0OC4yOToyMzMzOmF1dGhfYWVzMTI4X21kNTpub25lOnRsczEuMl90aWNrZXRfYXV0aDplbkE1TmpBME1qQS8_b2Jmc3BhcmFtPSZyZW1hcmtzPUxTQXlNek16SUMwZyZncm91cD1lbkF0TWpr`
