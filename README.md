@@ -11,6 +11,7 @@
 - [RESTful API设计参考文献][31]
 - [网络变成深入理解][35]
 - [每个伟大的思想和行动都有一个微不足道的开始][37]
+- [美丽新世界: linux 下的惬意生活][38]
 
 ### 设计模式
   - [Javascript设计模式][13]
@@ -91,4 +92,5 @@
 [35]: https://github.com/shell909090/slides
 [36]: https://github.com/smalleyes/swoole-chm
 [37]: https://github.com/wizardforcel/data-science-notebook
+[38]: https://github.com/yangyangwithgnu/the_new_world_linux
 

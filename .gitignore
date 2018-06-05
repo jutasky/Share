@@ -1,0 +1,7 @@
+.DS_Store
+.*
+!.gitignore
+!ssr/.gitignore
+ssr/tools/node_modules/
+ssr/tools/package-lock.json
+.vscode/

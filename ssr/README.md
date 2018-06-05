@@ -8,27 +8,28 @@
 
   - account/
   - pic/
-  - [ShadowsocksX-R.zip][2]
-  - [ShadowsocksR-4.7.0.zip][1]
-  - [ShadowsocksR-release.apk][3]
+  - app/
   - [account.md][4]
   - README.md
 
 
 ## 前置说明
 
-  Windows用户请下载 `ShadowsocksR-4.7.0.zip`
+  Windows用户请下载 [`electron-ssr-setup-0.2.3.exe`][2]
 
-  macOS, OS X用户请下载 `ShadowsocksX-R.zip`
+  macOS, OS X用户请下载 [`electron-ssr-0.2.3-mac.zip`][3]
 
-  安卓用户请下载 `ShadowsocksR-release.apk`
+  安卓用户请下载 [`ShadowsocksR-release.apk`][1]
 
-  `account.md` 存放的为帐号密码，这里的设备均为本人提供使用，如出现无法翻越长城的情况，不是墙升级了，就是我没钱续费了
+  `account.md` 存放的为ssr链接，这里的设备均为本人提供使用，如出现无法翻越长城的情况，不是墙升级了，就是我没钱续费了
 
   **PS:帐号发布初衷为组织内部使用，最好仅自己使用，请勿外传**
 
 
 ## **使用**
+ ### 订阅服务器
+ [`https://github.com/jutasky/Share/raw/master/ssr/all.txt`](https://github.com/jutasky/Share/raw/master/ssr)
+
 
  ### **Windows:**
   **step1:**
@@ -151,9 +152,9 @@
 > 2017.10.15 flxxyz updated.
 
 
- [1]: https://github.com/jutasky/Share/raw/master/ssr/ShadowsocksR-4.7.0.zip
- [2]: https://github.com/jutasky/Share/raw/master/ssr/ShadowsocksX-R.zip
- [3]: https://github.com/jutasky/Share/raw/master/ssr/Shadowsocksr-release.apk
+ [1]: https://github.com/jutasky/Share/raw/master/ssr/app/Shadowsocksr-release.apk
+ [2]: https://github.com/jutasky/Share/raw/master/ssr/app/electron-ssr-setup-0.2.3.exe
+ [3]: https://github.com/jutasky/Share/raw/master/ssr/app/electron-ssr-0.2.3-mac.zip
  [4]: https://github.com/jutasky/Share/blob/master/ssr/account.md
  [5]: ./pic/usage1.png
  [6]: ./pic/usage2.png
