@@ -28,7 +28,7 @@
 
 ## **使用**
  ### 订阅服务器
- [`https://github.com/jutasky/Share/raw/master/ssr/all.txt`](https://github.com/jutasky/Share/raw/master/ssr)
+ [`https://raw.githubusercontent.com/jutasky/Share/master/ssr/all.txt`](https://raw.githubusercontent.com/jutasky/Share/master/ssr/all.txt)
 
 
  ### **Windows:**
