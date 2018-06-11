@@ -5,47 +5,48 @@
 
 # 目录
 ## 编程
-- [免费的编程中文书籍索引][10] 「**推荐**」
-- [一起学 Node.js][28]
-- [Redis设计与实现][30]
-- [RESTful API设计参考文献][31]
-- [网络变成深入理解][35]
-- [每个伟大的思想和行动都有一个微不足道的开始][37]
-- [美丽新世界: linux 下的惬意生活][38]
+- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) 「**推荐**」
+- [一起学 Node.js](https://github.com/nswbmw/N-blog)
+- [Redis设计与实现](https://github.com/huangz1990/redisbook)
+- [RESTful API设计参考文献](https://github.com/aisuhua/restful-api-design-references)
+- [网络变成深入理解](https://github.com/shell909090/slides)
+- [每个伟大的思想和行动都有一个微不足道的开始](https://github.com/wizardforcel/data-science-notebook)
+- [美丽新世界: linux 下的惬意生活](https://github.com/yangyangwithgnu/the_new_world_linux)
+- [Linux 内核揭密](https://github.com/MintCN/linux-insides-zh)
 
 ### 设计模式
-  - [Javascript设计模式][13]
-  - [IOS设计模式探索(大话设计模式)][16]
-  - [Ajax设计方案][18]
-  - [React设计思想][19] 「**深入理解**」
-  - [PHP设计模式][32] 「**模式挺全,查看不太方便**」
+  - [Javascript设计模式](https://github.com/lxj/javascript.patterns)
+  - [IOS设计模式探索(大话设计模式)](https://github.com/huang303513/Design-Pattern-For-iOS)
+  - [Ajax设计方案](https://github.com/GerryIsWarrior/ajax)
+  - [React设计思想](https://github.com/react-guide/react-basic) 「**深入理解**」
+  - [PHP设计模式](https://github.com/yunkaiyueming/php_design_patterns) 「**模式挺全,查看不太方便**」
+  - [Golang电子书](https://github.com/astaxie/build-web-application-with-golang)
 
 ### 工具书
-  - [Javascript大犀牛中文版][14]「**推荐**」
-  - [基于MVC的JavaScript Web富应用开发][23]
-  - [Linux工具快速教程][17]
-  - [Android开发工具指南][20]
-  - [Android学习指南][29] 「**推荐**」
-  - [Lua程序设计][26] 「**推荐**」
-  - [Lua5.3参考手册][27]
-  - [swoole中文chm文档][36] 「推荐phper阅读」
+  - [Javascript大犀牛中文版](http://ued.taobao.org/javascript)「**推荐**」
+  - [基于MVC的JavaScript Web富应用开发](http://jayli.github.io/jswebapps)
+  - [Linux工具快速教程](http://linuxtools-rst.readthedocs.io/zh_CN/latest)
+  - [Android开发工具指南](https://github.com/inferjay/AndroidDevTools)
+  - [Android学习指南](http://www.jianshu.com/p/f6681e417d40) 「**推荐**」
+  - [Lua程序设计](http://book.luaer.cn/) 「**推荐**」
+  - [Lua5.3参考手册](http://cloudwu.github.io/lua53doc/contents.html)
+  - [swoole中文chm文档](https://github.com/smalleyes/swoole-chm) 「推荐phper阅读」
 
 ## 设计
-  - [UI设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等][15]
-  - [老姜尺寸网][21]
-  - [老姜配色网][22]
-  - [Color Hunt][24]
-  - [图虫][25]
+  - [UI设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等](https://github.com/jobbole/awesome-design-cn)
+  - [老姜尺寸网](http://www.chicun.vc)
+  - [老姜配色网](http://www.peise.vc)
+  - [Color Hunt](http://colorhunt.co/)
+  - [图虫](https://tuchong.com/)
     
 ## 英语
-  - [可能让你受益匪浅的高效学习英语进阶指南][11] 「学习英语非常推荐!」
+  - [可能让你受益匪浅的高效学习英语进阶指南](https://github.com/byoungd/english-level-up-tips-for-Chinese) 「学习英语非常推荐!」
   
 ## 哲学思考
-  - [为什么静下心来阅读会是一种奢侈？][12] 「**迷茫推荐**」
-  - [乌云，一个时代的终结][34]
+  - [为什么静下心来阅读会是一种奢侈？](http://www.nowamagic.net/librarys/veda/detail/2800) 「**迷茫推荐**」
   
 ## 其他
-  - [前端写给设计的设计注意事项][33] 「**强烈推荐**」
+  - [前端写给设计的设计注意事项](https://github.com/onface/web-design-notes) 「**强烈推荐**」
 
 - - - 
 
@@ -62,35 +63,4 @@
 [2]: http://www.appinn.com/markdown/
 [3]: https://guides.github.com/features/mastering-markdown/
 [4]: https://github.com/jutasky/Share/tree/master/ssr
-
-
-[10]: https://github.com/justjavac/free-programming-books-zh_CN
-[11]: https://github.com/byoungd/english-level-up-tips-for-Chinese
-[12]: http://www.nowamagic.net/librarys/veda/detail/2800
-[13]: https://github.com/lxj/javascript.patterns
-[14]: http://ued.taobao.org/javascript
-[15]: https://github.com/jobbole/awesome-design-cn
-[16]: https://github.com/huang303513/Design-Pattern-For-iOS
-[17]: http://linuxtools-rst.readthedocs.io/zh_CN/latest
-[18]: https://github.com/GerryIsWarrior/ajax
-[19]: https://github.com/react-guide/react-basic
-[20]: https://github.com/inferjay/AndroidDevTools
-[21]: http://www.chicun.vc
-[22]: http://www.peise.vc
-[23]: http://jayli.github.io/jswebapps
-[24]: http://colorhunt.co/
-[25]: https://tuchong.com/
-[26]: http://book.luaer.cn/
-[27]: http://cloudwu.github.io/lua53doc/contents.html
-[28]: https://github.com/nswbmw/N-blog
-[29]: http://www.jianshu.com/p/f6681e417d40
-[30]: https://github.com/huangz1990/redisbook
-[31]: https://github.com/aisuhua/restful-api-design-references
-[32]: https://github.com/yunkaiyueming/php_design_patterns
-[33]: https://github.com/onface/web-design-notes
-[34]: https://aidn.jp/mikutap/
-[35]: https://github.com/shell909090/slides
-[36]: https://github.com/smalleyes/swoole-chm
-[37]: https://github.com/wizardforcel/data-science-notebook
-[38]: https://github.com/yangyangwithgnu/the_new_world_linux
 
