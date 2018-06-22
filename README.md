@@ -5,6 +5,7 @@
 
 # 目录
 ## 编程
+- [2018 年成為 Web 開發人員的路線圖](https://github.com/goodjack/developer-roadmap-chinese)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) 「**推荐**」
 - [一起学 Node.js](https://github.com/nswbmw/N-blog)
 - [Redis设计与实现](https://github.com/huangz1990/redisbook)
@@ -13,6 +14,7 @@
 - [每个伟大的思想和行动都有一个微不足道的开始](https://github.com/wizardforcel/data-science-notebook)
 - [美丽新世界: linux 下的惬意生活](https://github.com/yangyangwithgnu/the_new_world_linux)
 - [Linux 内核揭密](https://github.com/MintCN/linux-insides-zh)
+- [用 Vue.js 开发的跨三端应用](https://github.com/halfrost/vue-objccn)
 
 ### 设计模式
   - [Javascript设计模式](https://github.com/lxj/javascript.patterns)
