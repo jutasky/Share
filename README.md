@@ -25,6 +25,7 @@
   - [Golang电子书](https://github.com/astaxie/build-web-application-with-golang)
 
 ### 工具书
+  - [A golang ebook intro how to build a web with golang](https://github.com/astaxie/build-web-application-with-golang)
   - [Javascript大犀牛中文版](http://ued.taobao.org/javascript)「**推荐**」
   - [基于MVC的JavaScript Web富应用开发](http://jayli.github.io/jswebapps)
   - [Linux工具快速教程](http://linuxtools-rst.readthedocs.io/zh_CN/latest)
