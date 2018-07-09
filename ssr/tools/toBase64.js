@@ -1,3 +1,5 @@
+console.log('nodejs的base64编码有缺失，暂时不要使用');
+return;
 const base64 = require('base64-url')
 const path = require('path')
 const fs = require('fs')
