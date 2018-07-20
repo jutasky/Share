@@ -1,35 +1,62 @@
 # ssr使用说明
 
 废话不说，看看使用效果，4k无压力
-![速度测试1][5]
-![速度测试2][6]
+![速度测试1][1]
+![速度测试2][2]
 
 ## 文件目录结构
 
   - account/
   - pic/
   - app/
-  - [account.md][4]
+  - [account.md](https://github.com/jutasky/Share/blob/master/ssr/account.md)
   - README.md
 
 
 ## 前置说明
 
-  Windows用户请下载 [`electron-ssr-setup-0.2.3.exe`][2]
+  ### Windows
+   Windows用户请下载 [`ShadowsocksR-4.7.0.zip`](https://github.com/jutasky/Share/raw/master/ssr/app/ShadowsocksR-4.7.0.zip)
+  
+   Windows备用: [`electron-ssr-setup-0.2.3.exe`](https://github.com/jutasky/Share/raw/master/ssr/app/electron-ssr-setup-0.2.3.exe)
+   PS: 功能项很多但是隐藏的bug还需要后续去解决，**注意需要安装python和nodejs环境！！**
 
-  macOS, OS X用户请下载 [`electron-ssr-0.2.3-mac.zip`][3]
+  ### Mac
+   macOS, OS X用户请下载 [`ShadowsocksX-R.zip`](https://github.com/jutasky/Share/raw/master/ssr/app/ShadowsocksX-R.zip)
 
-  安卓用户请下载 [`ShadowsocksR-release.apk`][1]
+   macOS备用: [`electron-ssr-0.2.3-mac.zip`](https://github.com/jutasky/Share/raw/master/ssr/app/electron-ssr-0.2.3-mac.zip)
+   PS: 功能与windows版一样，貌似稳定性会高一点
 
-  `account.md` 存放的为ssr链接，这里的设备均为本人提供使用，如出现无法翻越长城的情况，不是墙升级了，就是我没钱续费了
+  ### Android
+   安卓用户请下载 [`ShadowsocksR-release.apk`](https://github.com/jutasky/Share/raw/master/ssr/app/ShadowsocksR-release.apk)
 
-  **PS:帐号发布初衷为组织内部使用，最好仅自己使用，请勿外传**
+  ### IOS
+   抱歉我没有iphone，如果你有什么好的解决方法可以issue
+
+  ### 一些介绍
+   `account.md` 存放的为ssr链接，这里的设备均为本人提供使用，如出现无法翻越长城的情况，不是墙升级了，就是我没钱续费了
+
+   **PS:帐号发布初衷为组织内部使用，最好仅自己使用，请勿外传**
 
 
 ## **使用**
  ### 订阅服务器
- [`https://raw.githubusercontent.com/jutasky/Share/master/ssr/all.txt`](https://raw.githubusercontent.com/jutasky/Share/master/ssr/all.txt)
+ 使用订阅功能可以非常方便的添加节点，一次添加，没有后续操作，打开软体自动更新节点，再也不用一个个添加了！
+ 
+ **订阅地址：**[`https://raw.githubusercontent.com/jutasky/Share/master/ssr/all.txt`](https://raw.githubusercontent.com/jutasky/Share/master/ssr/all.txt)
 
+ #### 添加方法
+  - 右键任务栏上的软体图标，找到**服务器订阅**，点击**SSR服务器订阅设置**（例子使用的是原生windows程序）
+  - 备用程序的打开操作->右键任务栏上的软体图标->找到**服务器**->点击**订阅管理**->添加
+  ![添加订阅服务器][3]
+  
+  点击**Add**，粘贴入开头👆的订阅地址，确定
+  ![添加订阅服务器][4]
+  
+  没有效果的话，可以单独点击**更新SSR服务器订阅(不通过代理)**，**⚠️注意是不通过代理！！！**
+  ![添加订阅服务器][5]
+  
+  macOS的添加基本雷同（只有备用程序可以！）
 
  ### **Windows:**
   **step1:**
@@ -149,15 +176,14 @@
 
 
 - - - -
-> 2017.10.15 flxxyz updated.
+> 2018.07.20 flxxyz updated.
 
 
- [1]: https://github.com/jutasky/Share/raw/master/ssr/app/Shadowsocksr-release.apk
- [2]: https://github.com/jutasky/Share/raw/master/ssr/app/electron-ssr-setup-0.2.3.exe
- [3]: https://github.com/jutasky/Share/raw/master/ssr/app/electron-ssr-0.2.3-mac.zip
- [4]: https://github.com/jutasky/Share/blob/master/ssr/account.md
- [5]: ./pic/usage1.png
- [6]: ./pic/usage2.png
+ [1]: ./pic/usage1.png
+ [2]: ./pic/usage2.png
+ [3]: ./pic/usage3.jpg
+ [4]: ./pic/usage4.jpg
+ [5]: ./pic/usage5.jpg
 
  [10]: ./pic/windows/ssr_1.png
  [11]: ./pic/windows/ssr_2.png
