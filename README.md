@@ -15,6 +15,7 @@
 - [美丽新世界: linux 下的惬意生活](https://github.com/yangyangwithgnu/the_new_world_linux)
 - [Linux 内核揭密](https://github.com/MintCN/linux-insides-zh)
 - [用 Vue.js 开发的跨三端应用](https://github.com/halfrost/vue-objccn)
+- [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 
 ### 设计模式
   - [Javascript设计模式](https://github.com/lxj/javascript.patterns)
