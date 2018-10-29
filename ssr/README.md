@@ -28,7 +28,7 @@
    PS: 功能与windows版一样，貌似稳定性会高一点
 
   ### Android
-   安卓用户请下载 [`ShadowsocksR-release.apk`](https://github.com/jutasky/Share/raw/master/ssr/app/ShadowsocksR-release.apk)
+   安卓用户请下载 [`ShadowsocksR-release.apk`](https://github.com/jutasky/Share/raw/master/ssr/app/Shadowsocksr-release.apk)
 
   ### IOS
    抱歉我没有iphone，如果你有什么好的解决方法可以issue
@@ -176,7 +176,7 @@
 
 
 - - - -
-> 2018.07.20 flxxyz updated.
+> 2018.10.29 flxxyz updated.
 
 
  [1]: ./pic/usage1.png
