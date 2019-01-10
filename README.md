@@ -5,6 +5,7 @@
 
 # 目录
 ## 编程
+- [一个神奇的CSS,完成很多高效的动画和样式](https://chokcoco.github.io/CSS-Inspiration/#/./others/1px-line)
 - [JavaScript代码段集合，您可以在30秒或更短的时间内理解这些代码段](https://github.com/30-seconds/30-seconds-of-code?utm_source=gold_browser_extension)
 - [2018 年成為 Web 開發人員的路線圖](https://github.com/goodjack/developer-roadmap-chinese)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) 「**推荐**」
