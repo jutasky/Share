@@ -20,6 +20,7 @@
 - [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 - [一些常见的书籍pdf](https://github.com/zxysilent/books)
 - [准备下次编程面试前你应该知道的数据结构](https://segmentfault.com/a/1190000018019127)
+- [Golang获取机器码（MachineCode、PhysicalId)](https://studygolang.com/articles/18331)
 
 ### 设计模式
   - [Javascript设计模式](https://github.com/lxj/javascript.patterns)
