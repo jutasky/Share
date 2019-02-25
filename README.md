@@ -18,6 +18,8 @@
 - [Linux 内核揭密](https://github.com/MintCN/linux-insides-zh)
 - [用 Vue.js 开发的跨三端应用](https://github.com/halfrost/vue-objccn)
 - [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
+- [一些常见的书籍pdf](https://github.com/zxysilent/books)
+- [准备下次编程面试前你应该知道的数据结构](https://segmentfault.com/a/1190000018019127)
 
 ### 设计模式
   - [Javascript设计模式](https://github.com/lxj/javascript.patterns)
@@ -48,7 +50,7 @@
 ## 英语
   - [可能让你受益匪浅的高效学习英语进阶指南](https://github.com/byoungd/english-level-up-tips-for-Chinese) 「学习英语非常推荐!」
   
-## 哲学思考
+## 哲学
   - [为什么静下心来阅读会是一种奢侈？](http://www.nowamagic.net/librarys/veda/detail/2800) 「**迷茫推荐**」
   
 ## 其他
@@ -62,7 +64,7 @@
 - [https://daringfireball.net/projects/markdown/syntax][1]
 - [http://www.appinn.com/markdown/][2]
 
-> 如遇到网站无法打开的问题，请考虑使用梯子访问，我们组织是为大家有提供的！！！ [看这里][4]
+> 如遇到网站无法打开的问题，请考虑使用梯子访问！！！ [看这里][4]
 
 
 [1]: https://daringfireball.net/projects/markdown/syntax
