@@ -5,6 +5,7 @@
 
 # 目录
 ## 编程
+- [大学生有益网站集合](https://github.com/Xuanwo/WebsitesForStudents)
 - [❤️中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
 - [一个神奇的CSS,完成很多高效的动画和样式](https://chokcoco.github.io/CSS-Inspiration/#/./others/1px-line)
 - [JavaScript代码段集合，您可以在30秒或更短的时间内理解这些代码段](https://github.com/30-seconds/30-seconds-of-code?utm_source=gold_browser_extension)
