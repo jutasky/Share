@@ -1,3 +1,5 @@
+# 有点推荐使用v2ray惹 [点这里](https://github.com/jutasky/Share/tree/master/v2ray)
+
 # ssr使用说明
 
 废话不说，看看使用效果，4k无压力
