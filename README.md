@@ -44,6 +44,7 @@
   - [swoole中文chm文档](https://github.com/smalleyes/swoole-chm) 「推荐phper阅读」
 
 ## 设计
+  - [精选最好的设计网站大全](http://hao.shejidaren.com/)
   - [Material Design设计手册 中文版](https://github.com/1sters/material_design_zh_2)
   - [UI设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等](https://github.com/jobbole/awesome-design-cn)
   - [老姜尺寸网](http://www.chicun.vc)
