@@ -26,3 +26,6 @@
 - BifrostV
 
   下载 [play store](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv) | [APKPure](https://apkpure.com/bifrostv/com.github.dawndiy.bifrostv)
+
+## 信息
+> version: 4.18.0
