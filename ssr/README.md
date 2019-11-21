@@ -46,8 +46,6 @@
  使用订阅功能可以非常方便的添加节点，一次添加，没有后续操作，打开软体自动更新节点，再也不用一个个添加了！
  
  **订阅地址：**[`https://raw.githubusercontent.com/jutasky/Share/master/ssr/all.txt`](https://raw.githubusercontent.com/jutasky/Share/master/ssr/all.txt)
- 
- **备用的订阅地址：**[`https://ssrsub.00oo000.ooo`](https://ssrsub.00oo000.ooo/) 不可用的节点有点多~~听说是每天更新的~~
 
  #### 添加方法
   - 右键任务栏上的软体图标，找到**服务器订阅**，点击**SSR服务器订阅设置**（例子使用的是原生windows程序）
