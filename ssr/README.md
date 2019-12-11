@@ -18,16 +18,14 @@
 ## 前置说明
 
   ### Windows
-   Windows用户请下载 [`ShadowsocksR-4.7.0.zip`](https://github.com/jutasky/Share/raw/master/ssr/app/ShadowsocksR-4.7.0.zip)
+   Windows用户请下载 [`ShadowsocksR-4.9.2.zip`](https://github.com/jutasky/Share/raw/master/ssr/app/ShadowsocksR-4.9.2.zip) || [`ShadowsocksR-4.7.0.zip`](https://github.com/jutasky/Share/raw/master/ssr/app/ShadowsocksR-4.7.0.zip)
   
-   Windows备用: [`electron-ssr-setup-0.2.3.exe`](https://github.com/jutasky/Share/raw/master/ssr/app/electron-ssr-setup-0.2.3.exe)
-   PS: 功能项很多但是隐藏的bug还需要后续去解决，**注意需要安装python和nodejs环境！！**
+   Windows备用: [`electron-ssr-setup-0.2.6.exe`](https://github.com/jutasky/Share/raw/master/ssr/app/electron-ssr-setup-0.2.6.exe)【**注意需要安装python和nodejs环】境！！**
 
   ### Mac
    macOS, OS X用户请下载 [`ShadowsocksX-R.zip`](https://github.com/jutasky/Share/raw/master/ssr/app/ShadowsocksX-R.zip)
 
-   macOS备用: [`electron-ssr-0.2.3-mac.zip`](https://github.com/jutasky/Share/raw/master/ssr/app/electron-ssr-0.2.3-mac.zip)
-   PS: 功能与windows版一样，貌似稳定性会高一点
+   macOS备用: [`electron-ssr-0.2.6-mac.zip`](https://github.com/jutasky/Share/raw/master/ssr/app/electron-ssr-0.2.6-mac.zip)
 
   ### Android
    安卓用户请下载 [`ShadowsocksR-release.apk`](https://github.com/jutasky/Share/raw/master/ssr/app/Shadowsocksr-release.apk)
@@ -37,9 +35,6 @@
 
   ### 一些介绍
    `account.md` 存放的为ssr链接，这里的设备均为本人提供使用，如出现无法翻越长城的情况，不是墙升级了，就是我没钱续费了
-
-   **PS:帐号发布初衷为组织内部使用，最好仅自己使用，请勿外传**
-
 
 ## **使用**
  ### 订阅服务器
@@ -178,7 +173,7 @@
 
 
 - - - -
-> 2018.10.29 flxxyz updated.
+> 2019.12.11 flxxyz updated.
 
 
  [1]: ./pic/usage1.png
