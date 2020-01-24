@@ -1,4 +1,4 @@
-# 有点推荐使用v2ray惹 [点这里](https://github.com/jutasky/Share/tree/master/v2ray)
+### ~~停止更新~~
 
 # ssr使用说明
 
