@@ -1,9 +1,4 @@
 #!/bin/bash
-cd ..
-path=`pwd`
-echo '编码开始'
-BASE64_STR=`base64 ${path}/account.md`
-echo '编码成功'
-echo '开始写入...'
-echo ${BASE64_STR} > ${path}/all.txt
+basepath=$(cd `dirname $(readlink -f $0)`;cd ..; pwd)
+base64 --wrap=0 "$basepath/account.md" > "$basepath/all.txt"
 echo '写入完成!'
