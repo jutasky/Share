@@ -23,6 +23,7 @@
 - [一些常见的书籍pdf](https://github.com/zxysilent/books)
 - [准备下次编程面试前你应该知道的数据结构](https://segmentfault.com/a/1190000018019127)
 - [Golang获取机器码（MachineCode、PhysicalId)](https://studygolang.com/articles/18331)
+- [用js写更棒的脚本工具](https://github.com/google/zx)
 
 ### 设计模式
   - [Javascript设计模式](https://github.com/lxj/javascript.patterns)
