@@ -69,11 +69,8 @@
 - [https://daringfireball.net/projects/markdown/syntax][1]
 - [http://www.appinn.com/markdown/][2]
 
-> 如遇到网站无法打开的问题，请考虑使用梯子访问！！！ [看这里][4]
-
 
 [1]: https://daringfireball.net/projects/markdown/syntax
 [2]: http://www.appinn.com/markdown/
 [3]: https://guides.github.com/features/mastering-markdown/
-[4]: https://github.com/jutasky/Share/tree/master/ssr
 
