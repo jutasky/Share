@@ -31,6 +31,7 @@
   - [React设计思想](https://github.com/react-guide/react-basic) 「**深入理解**」
   - [PHP设计模式](https://github.com/yunkaiyueming/php_design_patterns) 「**模式挺全,查看不太方便**」
   - [Golang电子书](https://github.com/astaxie/build-web-application-with-golang)
+  - [图解react源码(基于17.0.1)](https://github.com/7kms/react-illustration-series)
 
 ### 工具书
   - [A golang ebook intro how to build a web with golang](https://github.com/astaxie/build-web-application-with-golang)
