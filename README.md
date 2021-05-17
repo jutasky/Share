@@ -27,6 +27,7 @@
 - [uber的go语言规范中文版](https://github.com/xxjwxc/uber_go_guide_cn)
 - [一款python编写的DDOS工具](https://github.com/BOT-CODER/SniperMan)
 - [监控本机DNS查询](https://github.com/jvns/dnspeep)
+- [友好的终端JSON查看器](https://github.com/antonmedv/fx)
 
 ### 设计模式
   - [Javascript设计模式](https://github.com/lxj/javascript.patterns)
