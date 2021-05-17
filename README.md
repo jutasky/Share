@@ -28,6 +28,7 @@
 - [一款python编写的DDOS工具](https://github.com/BOT-CODER/SniperMan)
 - [监控本机DNS查询](https://github.com/jvns/dnspeep)
 - [友好的终端JSON查看器](https://github.com/antonmedv/fx)
+- [React Hooks](https://github.com/streamich/react-use)
 
 ### 设计模式
   - [Javascript设计模式](https://github.com/lxj/javascript.patterns)
